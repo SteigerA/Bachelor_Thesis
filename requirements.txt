@@ -1,0 +1,7 @@
+langchain-text-splitters
+PyPDF2
+python-docx
+pandas
+chromadb
+ollama
+xlwings
